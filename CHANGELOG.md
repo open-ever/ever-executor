@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 1.18.32
+
+- Switched `ever-block` dependency to `open-ever/ever-block` pinned at tag `1.11.23`
+- Switched `ever-vm` dependency to `open-ever/ever-vm` pinned at tag `2.2.27`
+- Switched `common` submodule to `open-ever/common`
+
 ## Version 1.18.31
 
 - Fix the build
